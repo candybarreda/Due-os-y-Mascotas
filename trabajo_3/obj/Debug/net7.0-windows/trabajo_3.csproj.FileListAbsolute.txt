@@ -1,0 +1,16 @@
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\bin\Debug\net7.0-windows\trabajo_3.exe
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\bin\Debug\net7.0-windows\trabajo_3.deps.json
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\bin\Debug\net7.0-windows\trabajo_3.runtimeconfig.json
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\bin\Debug\net7.0-windows\trabajo_3.dll
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\bin\Debug\net7.0-windows\trabajo_3.pdb
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\obj\Debug\net7.0-windows\trabajo_3.Form1.resources
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\obj\Debug\net7.0-windows\trabajo_3.csproj.GenerateResource.cache
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\obj\Debug\net7.0-windows\trabajo_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\obj\Debug\net7.0-windows\trabajo_3.AssemblyInfoInputs.cache
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\obj\Debug\net7.0-windows\trabajo_3.AssemblyInfo.cs
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\obj\Debug\net7.0-windows\trabajo_3.csproj.CoreCompileInputs.cache
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\obj\Debug\net7.0-windows\trabajo_3.dll
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\obj\Debug\net7.0-windows\refint\trabajo_3.dll
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\obj\Debug\net7.0-windows\trabajo_3.pdb
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\obj\Debug\net7.0-windows\trabajo_3.genruntimeconfig.cache
+C:\Users\cdvil\source\repos\trabajo_3\trabajo_3\obj\Debug\net7.0-windows\ref\trabajo_3.dll
